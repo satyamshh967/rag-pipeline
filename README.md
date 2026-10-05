@@ -652,7 +652,7 @@ Use `.env.example` as the template.
 ---
 Project Structure
 ```text
-ai-knowledge-pipeline/
+rag-pipeline/
 │
 ├── app/
 │   ├── api.py
@@ -716,8 +716,8 @@ Git
 OpenRouter API key
 Clone
 ```bash
-git clone https://github.com/satyamsh967/ai-knowledge-pipeline.git
-cd ai-knowledge-pipeline
+git clone https://github.com/satyamsh967/rag-pipeline.git
+cd rag-pipeline
 ```
 Environment
 Create `.env`:
